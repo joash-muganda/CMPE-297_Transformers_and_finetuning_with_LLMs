@@ -21,11 +21,6 @@ A complete implementation of NanoGPT from scratch using PyTorch. The implementat
 ### Files
 
 - `nanogpt_implementation.ipynb`: Main implementation notebook
-- `config.py`: Configuration and hyperparameters
-- `data.py`: Data loading and processing
-- `model.py`: Model architecture implementation
-- `train.py`: Training loop and utilities
-- `utils.py`: Helper functions
 
 ### Usage
 
