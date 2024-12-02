@@ -15,7 +15,7 @@ A complete implementation of NanoGPT from scratch using PyTorch. The implementat
 
 ### Resources
 
-- [Medium Article: Detailed Explanation of the Code](placeholder_for_medium_article)
+- [Medium Article: Detailed Explanation of the Code](https://medium.com/@joash.muganda/building-nanogpt-from-scratch-with-pytorch-a-step-by-step-guide-a1e420258139)
 - [Video Tutorial: Step-by-Step Implementation](placeholder_for_video_explanation)
 
 ### Files
